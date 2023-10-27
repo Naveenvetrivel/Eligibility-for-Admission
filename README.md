@@ -4,12 +4,18 @@
 To write C# program to find the eligibility for admission to an engineering course
 
 ## Algorithnm:
-1.Start by creating a new class.
-2.Initiate the integer variables to assign the marks of Maths, Physics and Chemistry and a string variable to assign the name of the student; read the input from the user.
-3.Calculate the first total that sums all the 3 subject marks; and the second total that sums maths and physics marks.
-4.Based on the condition given, check whether the student is eligible for the engineering admission.
-5.Display the output for the input read from the user.
-6.Stop the execution.
+## step1
+Start by creating a new class.
+## step2
+Initiate the integer variables to assign the marks of Maths, Physics and Chemistry and a string variable to assign the name of the student; read the input from the user.
+## step3
+Calculate the first total that sums all the 3 subject marks; and the second total that sums maths and physics marks.
+## step4
+Based on the condition given, check whether the student is eligible for the engineering admission.
+## step5
+Display the output for the input read from the user.
+## step6
+Stop the execution.
 
 ## Program:
 ~~~
